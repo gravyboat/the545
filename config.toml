@@ -1,0 +1,7 @@
+baseURL = "https://the545.info/"
+languageCode = "en-us"
+title = "The 545"
+theme = "sk3"
+[Params]
+subtitle = "Reuniendo familias / Reunindo famílias / Reuniting families"
+favicon = "/favicon.ico"
