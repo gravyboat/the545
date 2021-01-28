@@ -1,5 +1,5 @@
 ---
-title: "español"
+title: "Español"
 date: 2020-10-29T21:56:59-07:00
 draft: false
 ---
